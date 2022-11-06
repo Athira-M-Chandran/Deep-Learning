@@ -1,3 +1,3 @@
 # Deep-Learning
 
-REF : codebasics youtube channel
+REF : codebasics youtube channel & Krish sir 
